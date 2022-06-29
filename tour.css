@@ -1,0 +1,139 @@
+body{
+    margin: 0;
+    padding:0;
+
+}
+.box1{
+    height: 100vh;
+    width:100%;
+    background-image: url(./hyderabad.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+.box2{
+    height: 100vh;
+    width:100%;
+    background-image: url(./tajmahal.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+.box3{
+    height: 100vh;
+    width:100%;
+    background-image: url(./Mumbai.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+.box4{
+    height: 100vh;
+    width:100%;
+    background-image: url(./goa.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+.box5{
+    height: 100vh;
+    width:100%;
+    background-image: url(./Chennai.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+.box6{
+    height: 100vh;
+    width:100%;
+    background-image: url(./BANGALORE.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+.box7{
+    height: 100vh;
+    width:100%;
+    background-image: url(./Assam.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+.box8{
+    height: 100vh;
+    width:100%;
+    background-image: url(./Tourist-Attractions-in-Punjab-Cover-10-02.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+.box9{
+    height: 100vh;
+    width:100%;
+    background-image: url(./kashmir.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+.box10{
+    height: 100vh;
+    width:100%;
+    background-image: url(./laddakh.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+.box11{
+    height: 100vh;
+    width:100%;
+    background-image: url(./kerala.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+.box12{
+    height: 100vh;
+    width:100%;
+    background-image: url(./banaras.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+.box13{
+    height: 100vh;
+    width:100%;
+    background-image: url(./Howrah-Bridge.webp);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+h1{
+    color: whitesmoke;
+    font-size: 40px;
+    text-align: center;
+    margin: 0px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+h1 a{
+    text-decoration: none;
+    color: whitesmoke;
+    transition: 1s;
+}
+h1 a:hover{
+        font-size: 130px;
+}
